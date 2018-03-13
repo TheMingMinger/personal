@@ -1,0 +1,6 @@
+[Added Associations]
+application/octet-stream=gedit.desktop;
+text/plain=gedit.desktop;
+image/jpeg=eog.desktop;
+image/png=eog.desktop;
+application/x-font-pcf=org.gnome.font-viewer.desktop;
